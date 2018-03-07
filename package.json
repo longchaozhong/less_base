@@ -1,0 +1,22 @@
+{
+  "name": "less_base",
+  "version": "1.0.0",
+  "description": "less,base config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longchaozhong/less_base.git"
+  },
+  "keywords": [
+    "less"
+  ],
+  "author": "longcz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longchaozhong/less_base/issues"
+  },
+  "homepage": "https://github.com/longchaozhong/less_base#readme"
+}
